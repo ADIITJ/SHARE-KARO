@@ -15,7 +15,7 @@ SHAREKARO is an innovative peer-to-peer (P2P) communication and file-sharing pla
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ADIITJ/SHAREKARO.git
+   git clone https://github.com/ADIITJ/SHARE-KARO.git
    cd SHAREKARO
    ```
 
